@@ -31,10 +31,6 @@ sens2.getTemp()
 sens3 = OxideSensor()
 sens3.getTemp()
 
-
-
-
-
 #class instance from another class
 class Sensor():
     def __init__(self,roomnumber):
